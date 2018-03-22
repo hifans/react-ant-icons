@@ -2,7 +2,7 @@
   "_args": [
     [
       {
-        "raw": "react-icons-kit",
+        "raw": "react-ant-icons",
         "scope": null,
         "escapedName": "react-icons-kit",
         "name": "react-icons-kit",
@@ -10,7 +10,6 @@
         "spec": "latest",
         "type": "tag"
       },
-      "/Users/fantasy/workspace/RiverManager/web"
     ]
   ],
   "_from": "react-icons-kit@latest",
