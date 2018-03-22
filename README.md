@@ -1,6 +1,6 @@
 
-# react-icons-kit
-
+# react-ant-icons
+从`react-icons-kit`迁出，为了适配ant 中的icon。
 
 ## Installation
 
