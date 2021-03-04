@@ -31,7 +31,7 @@ var Icon = function Icon(props) {
 
     return _react2.default.createElement(
         'div',
-        _extends({}, others, { style: _extends({}, style, { display: 'inline-block', justifyContent: 'center', alignItems: 'center' }), className: className }),
+        _extends({}, others, { style: _extends({}, style, { display: 'inline-block', justifyContent: 'center', alignItems: 'center', verticalAlign: 'middle' }), className: className }),
         _react2.default.createElement(_SvgIcon2.default, { size: props.size, icon: props.icon })
     );
 };
